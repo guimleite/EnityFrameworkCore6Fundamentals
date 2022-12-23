@@ -1,0 +1,15 @@
+D:\Projects\Pluralsight\ef_core_6_fundamentals\FirstApp\PublisherData\obj\Debug\net6.0\PublisherData.csproj.AssemblyReference.cache
+D:\Projects\Pluralsight\ef_core_6_fundamentals\FirstApp\PublisherData\obj\Debug\net6.0\PublisherData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Pluralsight\ef_core_6_fundamentals\FirstApp\PublisherData\obj\Debug\net6.0\PublisherData.AssemblyInfoInputs.cache
+D:\Projects\Pluralsight\ef_core_6_fundamentals\FirstApp\PublisherData\obj\Debug\net6.0\PublisherData.AssemblyInfo.cs
+D:\Projects\Pluralsight\ef_core_6_fundamentals\FirstApp\PublisherData\obj\Debug\net6.0\PublisherData.csproj.CoreCompileInputs.cache
+D:\Projects\Pluralsight\ef_core_6_fundamentals\FirstApp\PublisherData\bin\Debug\net6.0\PublisherData.deps.json
+D:\Projects\Pluralsight\ef_core_6_fundamentals\FirstApp\PublisherData\bin\Debug\net6.0\PublisherData.dll
+D:\Projects\Pluralsight\ef_core_6_fundamentals\FirstApp\PublisherData\bin\Debug\net6.0\PublisherData.pdb
+D:\Projects\Pluralsight\ef_core_6_fundamentals\FirstApp\PublisherData\bin\Debug\net6.0\PublisherDomain.dll
+D:\Projects\Pluralsight\ef_core_6_fundamentals\FirstApp\PublisherData\bin\Debug\net6.0\PublisherDomain.pdb
+D:\Projects\Pluralsight\ef_core_6_fundamentals\FirstApp\PublisherData\obj\Debug\net6.0\PublisherData.csproj.CopyComplete
+D:\Projects\Pluralsight\ef_core_6_fundamentals\FirstApp\PublisherData\obj\Debug\net6.0\PublisherData.dll
+D:\Projects\Pluralsight\ef_core_6_fundamentals\FirstApp\PublisherData\obj\Debug\net6.0\refint\PublisherData.dll
+D:\Projects\Pluralsight\ef_core_6_fundamentals\FirstApp\PublisherData\obj\Debug\net6.0\PublisherData.pdb
+D:\Projects\Pluralsight\ef_core_6_fundamentals\FirstApp\PublisherData\obj\Debug\net6.0\ref\PublisherData.dll

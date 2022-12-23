@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wlC6H/0JDfPhZXSLpzB90tytShCQBGdXYfz9tFOTzWLFsZ+ge4jyUXr8R6qTw4w4lvlkuz4znYGGnan2jGG28A==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Pluralsight\\ef_core_6_fundamentals\\FirstApp\\PublisherDomain\\PublisherDomain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gui\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Gui\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Gui\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
